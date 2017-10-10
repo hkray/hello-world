@@ -1,3 +1,4 @@
 # hello-world
 Just another repository
-<p>Last update: 10/10
+
+Last update: 10/10
